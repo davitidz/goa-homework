@@ -7,10 +7,27 @@
 # 4)ჩამოწერე ყველა მათემატიკური ოპერაციის მაგალითი და დაბეჭდე მათი შედეგები ტერმინალში
 
 
-name = input("enter your name:")
+#name = input("enter your name:")
 
 
 name = input("enter your name:")
 
 last_name = input("enter your last_name:")
+
+
+
+
+
+
+
+
+(5 + 3)
+(5 - 3)
+(4 * 5)
+(8 / 4)
+(8 // 4)
+(10 % 5)
+
+
+
 

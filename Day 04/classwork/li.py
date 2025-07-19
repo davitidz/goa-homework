@@ -40,11 +40,51 @@
 # print(sport,)
 
 #2
-name = input("your name:")
-last_name = input("your last name:")
-age = input("your age:")
-where_you_from = ("where you from:")
-your_hoby = ("your hoby")
-print(name,last_name,age,where_you_from,your_hoby)
+# name = input("your name:")
+# last_name = input("your last name:")
+# age = input("your age:")
+# where_you_from = ("where you from:")
+# your_hoby = ("your hoby")
+# print(name,last_name,age,where_you_from,your_hoby)
+
+
+
+
+#4
+name = "saba"
+age = "13"
+last_name = "davitidze"
+
+name = "sandro"
+age = "17"
+last_name = "xutashvili"
+print(age,age,last_name)
+
+
+
+
+#6
+num1 = "one"
+print(num1)
+ 
+num2 = 'two'
+ 
+num3 = 'three'
+print(num3)
+ 
+num4 = 4
+print(num4)
+ 
+num = 'five'
+print(num)
+
+
+
+
+
+
+
+
+
 
 
