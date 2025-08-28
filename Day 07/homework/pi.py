@@ -21,12 +21,12 @@ last_name = input("enter your last_name:")
 
 
 
-(5 + 3)
-(5 - 3)
-(4 * 5)
-(8 / 4)
-(8 // 4)
-(10 % 5)
+print(5 + 3)
+print(5 - 3)
+print(4 * 5)
+print(8 / 4)
+print(8 // 4)
+print(10 % 5)
 
 
 
